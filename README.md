@@ -1,2 +1,7 @@
 # AutoBiome-Hop
-e
+Instructions:
+1. Install [OCR System](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe)
+2. Install PyCharm (Preferably)
+3. Open the python project in your editor
+4. Change the directory on the line 14 to where your OCR is installed
+5. Youre good to go until the nearest update 😄
