@@ -5,4 +5,6 @@ Instructions:
 3. Open the python project in your editor
 4. Change the directory on the line 14 to where your OCR is installed
 5. Youre good to go until an update happens 😄
+
+
 (note. this is an extremely early version of the code so you may face difficulties using it or installing)
