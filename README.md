@@ -4,4 +4,4 @@ Instructions:
 2. Install PyCharm (Preferably)
 3. Open the python project in your editor
 4. Change the directory on the line 14 to where your OCR is installed
-5. Youre good to go until the nearest update 😄
+5. Youre good to go until an update happens 😄
